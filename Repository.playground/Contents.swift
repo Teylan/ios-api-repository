@@ -20,7 +20,7 @@ class UserRepository {
     }
     
     //TODO: Build and test comparable methods for the other CRUD items
-    //func create( a:User ) {}
+    //func create( a:User , withCompletion completion: @escaping (User?) -> Void) {}
     //func update( withId id:Int, a:User) {}
     //func delete( withId id:Int ) {}
     
